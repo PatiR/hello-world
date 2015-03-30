@@ -4,3 +4,6 @@ Create a file in your new repository, add something to that file and commit thos
 
 
 Add new lines to the txt dfdfdfdf
+
+Verifying "COMMIT TO IT"...
+
